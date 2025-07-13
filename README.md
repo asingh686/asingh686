@@ -5,7 +5,7 @@
 
 💻 Final-year CSE Student from Bhopal, India.  
 🧠 Building smart solutions using Python, ML, and Automation.  
-📹 I explain project-based learning on YouTube → [@MindSketcher](https://youtube.com/@MindSketcher2)  
+📹 I explain project-based learning on YouTube → [@MindSketcher2](https://youtube.com/@MindSketcher2)  
 📁 Source codes available here on GitHub.  
 📬 Open to freelance projects, internships, jobs & collaborations.
 
