@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Raj</h1>
-<h3 align="center">Python Developer | ML Enthusiast | Automation | Open Source Projects | YouTube Educator</h3>
+<h3 align="center">Python Developer | ML Enthusiast | Automation | Open Source Projects</h3>
 
 ---
 
