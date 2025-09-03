@@ -4,15 +4,14 @@
 ---
 
 💻 Final-year CSE Student from Bhopal, India.  
-🧠 Building smart solutions using Python, ML, and Automation.  
-📹 I explain project-based learning on YouTube → [@MindSketcher2](https://youtube.com/@MindSketcher2)  
+🧠 Building smart solutions using Python, ML, and Automation.    
 📁 Source codes available here on GitHub.  
 📬 Open to freelance projects, internships, jobs & collaborations.
 
 ---
 
 ### 🛠️ Tech Stack:
-'Python' 'Machine Learning' 'OpenCV' 'Git' 'GitHub' 'Pandas' 'DSA' 'OOPs'
+'Python' 'Machine Learning' 'MySQL' 'OpenCV' 'Git' 'GitHub' 'Pandas' 'DSA' 'OOPs'
 
 ---
 
@@ -36,8 +35,6 @@
 ---
 
 ### 🔗 Connect With Me
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@MindSketcher2)
-
 📧 Email: [ as1121aryan@gmail.com & aryanraj21052003@gmail.com ]  
 🌐 GitHub: [https://github.com/asingh686](https://github.com/asingh686)
 
