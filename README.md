@@ -24,22 +24,22 @@
 ---
 
 ### 📌 Featured Projects
+
 - 🤟 **Sign Language Detection using Python & OpenCV**  
   Real-time gesture detection using MediaPipe & OpenCV  
-  → [View Repo](https://github.com/asingh686/sign-language-detector)
-- Read full blog : https://learncnml.blogspot.com/2026/08/sign-language-detection-python-opencv-mediapipe.html
-  
+  → [View Repo](https://github.com/asingh686/sign-language-detector)  
+  → [Read Full Blog](https://learncnml.blogspot.com/2026/08/sign-language-detection-python-opencv-mediapipe.html)
+
 - 📊 **Business Operations Automation Script**  
   Python script that automates routine business tasks  
   → [View Repo](https://github.com/asingh686/business-automation)
-    
+
 ---
 
 ### 🔗 Connect With Me
 📧 Email: [ as1121aryan@gmail.com & aryanraj21052003@gmail.com ]  
-🌐 GitHub: [https://github.com/asingh686](https://github.com/asingh686)
+🌐 GitHub: https://github.com/asingh686
 
 ---
 
 > "Solving real-world problems, one Python script at a time." 🚀
-
