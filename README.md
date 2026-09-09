@@ -27,8 +27,8 @@
 - 🤟 **Sign Language Detection using Python & OpenCV**  
   Real-time gesture detection using MediaPipe & OpenCV  
   → [View Repo](https://github.com/asingh686/sign-language-detector)
-    [Read full blog] (https://learncnml.blogspot.com/2026/08/sign-language-detection-python-opencv-mediapipe.html)
-
+- Read full blog : https://learncnml.blogspot.com/2026/08/sign-language-detection-python-opencv-mediapipe.html
+  
 - 📊 **Business Operations Automation Script**  
   Python script that automates routine business tasks  
   → [View Repo](https://github.com/asingh686/business-automation)
